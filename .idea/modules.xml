@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/java_core_technology.iml" filepath="$PROJECT_DIR$/.idea/java_core_technology.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_core_technology1/java_core_technology1.iml" filepath="$PROJECT_DIR$/java_core_technology1/java_core_technology1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_core_technology2/java_core_technology2.iml" filepath="$PROJECT_DIR$/java_core_technology2/java_core_technology2.iml" />
+    </modules>
+  </component>
+</project>
